@@ -26,7 +26,7 @@ main()
  	imajiner = sqrt(-d)/(2*a);
  	printf("Gercek kok yok\n");
  	printf("1. kok = %.2f+%.2fi\n",reel,imajiner,reel,imajiner);
-	printf("2. kok = %.2f+%.2fi\n",reel,imajiner,reel,imajiner);
+	printf("2. kok = %.2f-%.2fi\n",reel,imajiner,reel,imajiner);
  	
     }
 	
